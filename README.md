@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/JanudaBethmin/JanudaBethmin/assets/95894819/273b648b-fb76-44fb-adad-3777cf3956f5" alt="Boy Studying" height="500">
+ <img src="https://github.com/JanudaBethmin/JanudaBethmin/assets/95894819/273b648b-fb76-44fb-adad-3777cf3956f5" alt="Boy Studying" height="50%">
 </p><br>
 
 <h1 align="center">Hi, I'm Januda Bethmin  👋</h1>
