@@ -2,7 +2,7 @@
  <img src="https://github.com/JanudaBethmin/JanudaBethmin/assets/95894819/273b648b-fb76-44fb-adad-3777cf3956f5" alt="Boy Studying" height="50%">
 </p><br>
 
-<h1 align="center">Hi, I'm Januda Bethmin  👋</h1>
+<h1 align="center">Hi, &nbsp I'm Januda Bethmin  👋</h1>
 
 <h4 align="center">
 I am Software Engineering undergraduate at the University of Kelaniya. 
