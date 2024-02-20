@@ -19,4 +19,4 @@ I am Software Engineering undergraduate at the University of Kelaniya.
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudabethmin&label=Profile%20views&color=0e75b6&style=flat" alt="helaniudara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudabethmin&label=Profile%20views&color=0e75b6&style=flat" alt="janudabethmin" /> </p>
