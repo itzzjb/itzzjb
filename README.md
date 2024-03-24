@@ -9,11 +9,11 @@ I am Software Engineering undergraduate at the University of Kelaniya.
 </h4>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=JanudaBethmin&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=itzzjb&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
  <br /><br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanudaBethmin&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzjb&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
  <br /><br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanudaBethmin&theme=react&hide_border=true&layout=compact" alt="Top Languages" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzjb&theme=react&hide_border=true&layout=compact" alt="Top Languages" align="center" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudabethmin&label=Profile%20views&color=0e75b6&style=flat" alt="janudabethmin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itzzjb&label=Profile%20views&color=0e75b6&style=flat" alt="janudabethmin" /> </p>
