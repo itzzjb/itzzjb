@@ -6,5 +6,5 @@
 
 ### Hi there, it's me Januda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-"Software engineering undergrad with a penchant for DevOps wizardry and cloud computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 #DevOps #CloudComputing #CodeComposer"
+"Software engineering undergrad with a penchant for DevOps wizardry and Cloud Computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 #DevOps #CloudComputing #CodeComposer"
 
