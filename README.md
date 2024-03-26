@@ -8,10 +8,3 @@
 
 "Software engineering undergrad with a penchant for DevOps wizardry and cloud computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 #DevOps #CloudComputing #CodeComposer"
 
----
-### 🔥 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itzzjb&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/itzzjb?tab=repositories)
-
----
-
