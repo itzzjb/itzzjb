@@ -1,4 +1,8 @@
 <p align="center">
+<a href="https://github.com/itzzjb?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%8C%B1+Developer+in+the+IT+world+%F0%9F%8C%B1;%F0%9F%8C%B1+Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
  <img src="https://github.com/JanudaBethmin/JanudaBethmin/assets/95894819/273b648b-fb76-44fb-adad-3777cf3956f5" alt="Boy Studying" height="50%">
 </p><br>
 
