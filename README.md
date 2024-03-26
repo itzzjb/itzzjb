@@ -8,6 +8,8 @@
 
 "Software engineering undergrad with a penchant for DevOps wizardry and cloud computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 #DevOps #CloudComputing #CodeComposer"
 
+---
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=itzzjb&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
  <br /><br />
