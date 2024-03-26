@@ -9,13 +9,9 @@
 "Software engineering undergrad with a penchant for DevOps wizardry and cloud computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 #DevOps #CloudComputing #CodeComposer"
 
 ---
+### 🔥 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=itzzjb&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
- <br /><br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzjb&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
- <br /><br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzjb&theme=react&hide_border=true&layout=compact" alt="Top Languages" align="center" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=itzzjb&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/itzzjb?tab=repositories)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itzzjb&label=Profile%20views&color=0e75b6&style=flat" alt="janudabethmin" /> </p>
+---
+
