@@ -13,7 +13,7 @@
 #DevOps #CloudComputing #OpenSource-->
 
 Hey there, fellow wanderer in the realms of code! 🚀 I'm like a newbie wizard in the magical land of GitHub, wielding my keyboard like a sorcerer's staff. ⚡️ Whether it's crafting code or orchestrating deployments, I'm on a journey to turn coffee into code and dreams into reality! ✨ Let's join forces, weave some spells with DevOps sorcery, and conjure up some Cloud Computing enchantments together. 🎩💻 Let's connect and build a future that's as bright as a star-studded sky! 🌟 
-<br>
+<br><br>
 [#DevOpsRookie]()   [#CloudComputingEnthusiast]()   [#CodeDreamer]()
 
 ---
