@@ -11,7 +11,7 @@
 <!--Software engineering undergrad with a penchant for DevOps wizardry and Cloud Computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 
 
 #DevOps #CloudComputing #OpenSource-->
-```
+
 Hey there, fellow wanderer in the realms of code! 🚀
 I'm like a newbie wizard in the magical land of GitHub,
 wielding my keyboard like a sorcerer's staff. ⚡️
@@ -20,9 +20,10 @@ I'm on a journey to turn coffee into code and dreams into reality! ✨
 Let's join forces, weave some spells with DevOps sorcery,
 and conjure up some Cloud Computing enchantments together. 🎩💻
 Let's connect and build a future that's as bright as a star-studded sky! 🌟
-```
+
 <br><br>
 [#DevOpsRookie]()   [#CloudComputingEnthusiast]()   [#CodeDreamer]()
+
 ---
 
 <!--
