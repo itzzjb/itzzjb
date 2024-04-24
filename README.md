@@ -6,7 +6,7 @@
 
 <img align="right" alt="Chill gif" src="https://github.com/itzzjb/itzzjb/assets/95894819/1f294467-ceaf-4140-a7db-26c319d7b915" width="360" height="190" />
 
-### Hi there, it's me ` Januda ` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, it's me **Januda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--Software engineering undergrad with a penchant for DevOps wizardry and Cloud Computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 
 
