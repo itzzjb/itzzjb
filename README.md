@@ -21,10 +21,12 @@ Let's join forces, weave some spells with DevOps sorcery,
 and conjure up some Cloud Computing enchantments together. 🎩💻
 Let's connect and build a future that's as bright as a star-studded sky! 🌟
 
-<br><br>
+
 [#DevOpsRookie]()   [#CloudComputingEnthusiast]()   [#CodeDreamer]()
 
 ---
+
+
 
 <!--
 <p align="center">
