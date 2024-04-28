@@ -9,14 +9,14 @@
 ## Hi there, it's me **Januda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hey there, fellow wanderer in the realms of code! 🚀
+**Hey there, fellow wanderer in the realms of code! 🚀
 I'm like a newbie wizard in the magical land of GitHub,
 wielding my keyboard like a sorcerer's staff. ⚡️
 Whether it's crafting code or orchestrating deployments,
 I'm on a journey to turn coffee into code and dreams into reality! ✨
 Let's join forces, weave some spells with DevOps sorcery,
 and conjure up some Cloud Computing enchantments together. 🎩💻
-Let's connect and build a future that's as bright as a star-studded sky! 🌟
+Let's connect and build a future that's as bright as a star-studded sky!** 🌟
 
 [**#DevOpsRookie**]()   [**#CloudComputingEnthusiast**]()   [**#CodeDreamer**]()
 
