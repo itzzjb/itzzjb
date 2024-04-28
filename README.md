@@ -8,9 +8,6 @@
 
 ## Hi there, it's me **Januda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--Software engineering undergrad with a penchant for DevOps wizardry and Cloud Computing sorcery ☁️💻 | Crafting code and orchestrating deployments like a symphony conductor 🎶 | Lover of automation, scalability, and all things tech 🚀 | On a quest to turn coffee into code and dreams into reality ✨ | Let's connect and build the future together! 🌟 
-
-#DevOps #CloudComputing #OpenSource-->
 
 Hey there, fellow wanderer in the realms of code! 🚀
 I'm like a newbie wizard in the magical land of GitHub,
@@ -21,8 +18,7 @@ Let's join forces, weave some spells with DevOps sorcery,
 and conjure up some Cloud Computing enchantments together. 🎩💻
 Let's connect and build a future that's as bright as a star-studded sky! 🌟
 
-
-[#DevOpsRookie]()   [#CloudComputingEnthusiast]()   [#CodeDreamer]()
+[**#DevOpsRookie**]()   [**#CloudComputingEnthusiast**]()   [**#CodeDreamer**]()
 
 ---
 
@@ -32,13 +28,4 @@ Let's connect and build a future that's as bright as a star-studded sky! 🌟
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itzzjb/itzzjb/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=itzzjb&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
- <br /><br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzjb&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
- <br /><br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzjb&theme=react&hide_border=true&layout=compact" alt="Top Languages" align="center" />
-</p>
--->
 
