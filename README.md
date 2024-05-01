@@ -28,4 +28,11 @@ Let's connect and build a future that's as bright as a star-studded sky!** 🌟
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itzzjb/itzzjb/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,r,c,java,py,go,spring,postman,mysql,postgres,git,kotlin,flutter,swift,mongo,express,react,nodejs,docker,githubactions,aws)](https://skillicons.dev)
+
+
+
+
 
