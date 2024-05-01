@@ -6,19 +6,21 @@
 
 <!--<img align="right" alt="Chill gif" src="https://github.com/itzzjb/itzzjb/assets/95894819/1f294467-ceaf-4140-a7db-26c319d7b915" width="360" height="190" />-->
 
-## Hi there, it's me **Januda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hi there, it's me Januda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-
-**Hey there, fellow wanderer in the realms of code! 🚀
-I'm like a newbie wizard in the magical land of GitHub,
-wielding my keyboard like a sorcerer's staff. ⚡️
+<p align="center">
+Hey there, fellow wanderer in the realms of code! 🚀 <br>
+I'm like a newbie wizard in the magical land of GitHub, 
+wielding my keyboard like a sorcerer's staff. ⚡️ <br>
 Whether it's crafting code or orchestrating deployments,
-I'm on a journey to turn coffee into code and dreams into reality! ✨
+I'm on a journey to turn coffee into code and dreams into reality! ✨ <br>
 Let's join forces, weave some spells with DevOps sorcery,
-and conjure up some Cloud Computing enchantments together. 🎩💻
-Let's connect and build a future that's as bright as a star-studded sky!** 🌟
+and conjure up some Cloud Computing enchantments together. 🎩💻 <br>
+Let's connect and build a future that's as bright as a star-studded sky! 🌟
+</p>
 
-[**#DevOpsRookie**]()   [**#CloudComputingEnthusiast**]()   [**#CodeDreamer**]()
+
+<h3 align="center"> <a>#DevOpsRookie</a>  <a>#CloudComputingEnthusiast</a> <a>#CodeDreamer</a> </h3>
 
 ---
 
