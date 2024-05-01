@@ -30,7 +30,7 @@ Let's connect and build a future that's as bright as a star-studded sky!** 🌟
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,r,c,java,py,go,spring,postman,mysql,postgres,git,kotlin,flutter,swift,mongo,express,react,nodejs,docker,githubactions,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,r,c,java,py,go,spring,postman,maven,mysql,postgres,git,kotlin,gradle,flutter,swift,mongo,express,react,nodejs,ts,npm,docker,githubactions,aws)](https://skillicons.dev)
 
 
 
