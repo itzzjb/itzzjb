@@ -6,7 +6,7 @@
 
 <!--<img align="right" alt="Chill gif" src="https://github.com/itzzjb/itzzjb/assets/95894819/1f294467-ceaf-4140-a7db-26c319d7b915" width="360" height="190" />-->
 
-## Hi there, it's me Januda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hi there, itzz me Januda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 **Hey there, fellow wanderer in the realms of code! 🚀 
 I'm like a newbie wizard in the magical land of GitHub, 
