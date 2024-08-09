@@ -31,6 +31,11 @@ Let's connect and build a future that's as bright as a star-studded sky! 🌟**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,r,c,java,py,go,spring,postman,maven,mysql,postgres,git,androidstudio,gradle,flutter,swift,mongo,express,react,nodejs,ts,md,npm,docker,githubactions,nginx,aws)](https://skillicons.dev)
 
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzzjb&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 
 
 
