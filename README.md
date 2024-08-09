@@ -27,6 +27,7 @@ Let's connect and build a future that's as bright as a star-studded sky! 🌟**
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itzzjb/itzzjb/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzzjb&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
