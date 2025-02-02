@@ -29,8 +29,6 @@ Let's connect and build a future that's as bright as a star-studded sky! 🌟**
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,terraform,kubernetes,helm)](https://skillicons.dev)
-
 
 
 
